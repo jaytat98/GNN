@@ -1,7 +1,7 @@
-Laplacian of a Graph and Applications in Mapping AI and Common Stocks Relationships
+# Laplacian of a Graph and Applications in Mapping AI and Common Stocks Relationships
 This project explores the application of the Laplacian matrix in analyzing relationships between AI stocks and other stocks in the stock market. It uses graph-based techniques to model these relationships, helping identify clusters, central stocks, and the role of AI stocks within the broader market.
 
-Table of Contents
+## Table of Contents
 Introduction
 Project Structure
 Installation
@@ -14,7 +14,7 @@ References
 Introduction
 This project focuses on using the Laplacian matrix to study the relationships between AI-related stocks (such as NVIDIA) and other sectors. By constructing graphs with stocks as nodes and their relationships based on stock performance as edges, we can analyze the market structure, identify stock clusters, and discover central stocks that play key roles in market dynamics.
 
-Key Concepts:
+## Key Concepts:
 Laplacian Matrix: Used to model graph structure.
 Fiedler Value: Helps in identifying stock market connectivity and clustering.
 Graph Neural Networks (GNNs): Used to model non-linear relationships between stocks.
@@ -35,7 +35,8 @@ Images (PNG): Visualizations of graphs and results.
 fig1.png, fig2.png, fig3.png, fig4.png: Graph plots showing stock relationships.
 Word Document: Term paper explaining the theory and methodology.
 term_paper.docx
-Installation
+
+## Installation
 To run this project, ensure you have the following dependencies installed:
 
 bash
@@ -78,13 +79,13 @@ NVIDIA and other major tech stocks (MSFT, GOOGL, AMZN) form strong clusters, ind
 The Laplacian matrix eigenvalues help identify weaker relationships between sectors like biotechnology and gaming.
 The results are visualized in fig1.png, fig2.png, and other related images, showing stock clustering and connectivity.
 
-Conclusion
+## Conclusion
 This project successfully demonstrates how the Laplacian matrix can be used to model stock market relationships. It highlights the central role of AI stocks like NVIDIA within the stock network and shows how graph-based analysis can provide meaningful insights for investors.
 
-Future Work
+## Future Work
 Future work will include expanding the dataset and applying more advanced models such as Deep Canonical Correlation Analysis (DCCA) to further improve the analysis of stock market relationships. Additionally, integration with Large Language Models (LLM) to enrich financial datasets is planned.
 
-References
+## References
 M. Fiedler, “Algebraic connectivity of graphs.”
 D. A. Spielman and S.-H. Teng, “Spectral partitioning works.”
 Papers related to non-linearity in Graph Neural Networks.
