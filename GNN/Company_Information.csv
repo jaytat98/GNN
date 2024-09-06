@@ -1,0 +1,71 @@
+Sector,Ticker,Full Name,Description
+AI,NVDA,Nvidia Corporation,A AI company specializing in graphics processing units.
+Technology,MSFT,Microsoft Corporation,A leading technology company known for software products like Windows.
+Technology,GOOGL,Alphabet Inc.,"The parent company of Google, specializing in Internet services."
+Technology,AMZN,"Amazon.com, Inc.",An e-commerce and cloud computing giant.
+Technology,AAPL,Apple Inc.,A leading technology company known for its innovative products like the iPhone.
+Technology,ADBE,Adobe Inc.,A software company known for its multimedia and creativity software products.
+Technology,CRM,"Salesforce.com, Inc.",A cloud-based software company specializing in CRM solutions.
+Technology,CSCO,"Cisco Systems, Inc.",A multinational technology conglomerate.
+Technology,INTC,Intel Corporation,A global technology company known for its semiconductor products.
+Technology,HPQ,HP Inc.,A multinational information technology company.
+Technology,NFLX,"Netflix, Inc.",A streaming service and production company.
+Technology,QCOM,Qualcomm Incorporated,A multinational corporation known for its semiconductor and telecommunications products.
+Technology,TXN,Texas Instruments Incorporated,A technology company that designs and manufactures semiconductors.
+Technology,NOW,"ServiceNow, Inc.",A cloud computing company.
+Technology,IBM,International Business Machines Corporation,A multinational technology company.
+Technology,VERI,"Veritone, Inc.",An AI technology company.
+Technology,ORCL,Oracle Corporation,A multinational computer technology corporation.
+Semiconductor,AMD,"Advanced Micro Devices, Inc.",A multinational semiconductor company.
+Semiconductor,MU,"Micron Technology, Inc.",An American producer of computer memory and data storage.
+Semiconductor,NXPI,NXP Semiconductors N.V.,A Dutch semiconductor manufacturer.
+Semiconductor,ADI,"Analog Devices, Inc.",A multinational semiconductor company.
+Semiconductor,AMAT,"Applied Materials, Inc.",An American corporation that supplies equipment for semiconductor manufacturing.
+Semiconductor,LRCX,Lam Research Corporation,A supplier of wafer fabrication equipment and services.
+Semiconductor,MRVL,Marvell Technology Group Ltd.,"A producer of storage, communications and consumer semiconductor products."
+Semiconductor,AVGO,Broadcom Inc.,"A designer, developer, manufacturer and global supplier of a broad range of semiconductor and infrastructure software products."
+Semiconductor,ON,ON Semiconductor Corporation,A supplier of semiconductor-based solutions.
+Biotechnology,ILMN,"Illumina, Inc.","An American company that develops, manufactures, and markets integrated systems for the analysis of genetic variation and biological function."
+Biotechnology,REGN,"Regeneron Pharmaceuticals, Inc.",An American biotechnology company.
+Biotechnology,VRTX,Vertex Pharmaceuticals Incorporated,An American biopharmaceutical company.
+Biotechnology,AMGN,Amgen Inc.,An American multinational biopharmaceutical company.
+Biotechnology,BIIB,Biogen Inc.,An American multinational biotechnology company.
+Biotechnology,GILD,"Gilead Sciences, Inc.",An American biotechnology company.
+Biotechnology,MRNA,"Moderna, Inc.",An American biotechnology company focused on drug discovery and drug development.
+Biotechnology,CRSP,CRISPR Therapeutics AG,A gene editing company.
+Biotechnology,NVAX,"Novavax, Inc.",An American vaccine development company.
+Biotechnology,BMRN,BioMarin Pharmaceutical Inc.,An American biotechnology company.
+Banking,JPM,JPMorgan Chase & Co.,An American multinational investment bank and financial services holding company.
+Banking,BAC,Bank of America Corporation,An American multinational investment bank and financial services company.
+Banking,WFC,Wells Fargo & Company,An American multinational financial services company.
+Banking,C,Citigroup Inc.,An American multinational investment bank and financial services corporation.
+Banking,GS,"The Goldman Sachs Group, Inc.",An American multinational investment bank and financial services company.
+Banking,MS,Morgan Stanley,An American multinational investment bank and financial services company.
+Banking,USB,U.S. Bancorp,An American bank holding company.
+Banking,PNC,"The PNC Financial Services Group, Inc.",An American bank holding company and financial services corporation.
+Banking,TFC,Truist Financial Corporation,An American bank holding company.
+Banking,COF,Capital One Financial Corporation,"An American bank holding company specializing in credit cards, auto loans, banking, and savings accounts."
+Gaming,EA,Electronic Arts Inc.,An American video game company.
+Gaming,TTWO,"Take-Two Interactive Software, Inc.",An American video game holding company.
+Gaming,NTES,"NetEase, Inc.","A Chinese technology company providing online services centered on content, community, communications, and commerce."
+Gaming,CCOEY,"Capcom Co., Ltd.",A Japanese video game developer and publisher.
+Energy and Electric,VST,Vistra Corp.,An American retail electricity provider.
+Energy and Electric,NRG,"NRG Energy, Inc.",An American energy company.
+Energy and Electric,SO,The Southern Company,An American gas and electric utility holding company.
+Energy and Electric,AEP,"American Electric Power Company, Inc.",A major investor-owned electric utility in the United States.
+Energy and Electric,EIX,Edison International,An American public utility holding company.
+Energy and Electric,DUK,Duke Energy Corporation,An American electric power holding company.
+Energy and Electric,NEE,"NextEra Energy, Inc.",An American energy company.
+Energy and Electric,EXC,Exelon Corporation,An American Fortune 100 energy company.
+Energy and Electric,ETR,Entergy Corporation,An integrated energy company.
+Energy and Electric,ED,"Consolidated Edison, Inc.",One of the largest investor-owned energy companies in the United States.
+Manufacturing,BA,The Boeing Company,"An American multinational corporation that designs, manufactures, and sells airplanes, rotorcraft, rockets, satellites, and telecommunications equipment."
+Manufacturing,CAT,Caterpillar Inc.,"An American Fortune 100 corporation that designs, develops, engineers, manufactures, markets and sells machinery, engines, financial products, and insurance to customers via a worldwide dealer network."
+Manufacturing,MMM,3M Company,"An American multinational conglomerate corporation operating in the fields of industry, worker safety, US health care, and consumer goods."
+Manufacturing,HON,Honeywell International Inc.,"An American publicly traded, multinational conglomerate."
+Manufacturing,ITW,Illinois Tool Works Inc.,"An American Fortune 200 company that produces engineered fasteners and components, equipment and consumable systems, and specialty products."
+Manufacturing,PH,Parker-Hannifin Corporation,An American corporation specializing in motion and control technologies.
+Manufacturing,SWK,"Stanley Black & Decker, Inc.",An American manufacturer of industrial tools and household hardware.
+Manufacturing,CMI,Cummins Inc.,"An American Fortune 500 corporation that designs, manufactures, and distributes engines, filtration, and power generation products."
+Manufacturing,EMR,Emerson Electric Co.,"An American multinational corporation that manufactures products and provides engineering services for industrial, commercial, and consumer markets."
+Manufacturing,DE,Deere & Company ,"An American corporation that manufactures agricultural, construction, and forestry machinery."
