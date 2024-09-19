@@ -54,8 +54,11 @@ The data files are provided in CSV format and contain financial information such
 Step 2: Graph Construction and Laplacian Matrix Calculation
 Open Main_code.ipynb to construct the graph of stocks based on their relationships (correlations).
 The Laplacian matrix is computed to analyze the graph, identify clusters, and visualize connections between stocks.
+
 Step 3: Visualization
+
 Visualizing stock relationships.
+
 Data
 The dataset includes stock price and financial information for various sectors from 2018 to June 2024.
 
