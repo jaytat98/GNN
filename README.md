@@ -55,14 +55,17 @@ Step 2: Graph Construction and Laplacian Matrix Calculation
 Open Main_code.ipynb to construct the graph of stocks based on their relationships (correlations).
 The Laplacian matrix is computed to analyze the graph, identify clusters, and visualize connections between stocks.
 Step 3: Visualization
-Use the PNG files (fig1.png, fig2.png, etc.) for visualizing stock relationships.
+Visualizing stock relationships.
 Data
-The dataset includes stock price and financial information for various sectors from 2018 to June 2024. Key columns:
+The dataset includes stock price and financial information for various sectors from 2018 to June 2024.
+
+Key columns:
 
 Stock Prices
 P/E Ratio
 Beta
 P/B Ratio
+
 The data is grouped by sectors:
 
 AI (NVIDIA, etc.)
